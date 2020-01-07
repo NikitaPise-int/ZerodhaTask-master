@@ -1,0 +1,1 @@
+web: python get_display_bsd.py

@@ -1,0 +1,8 @@
+pip
+cherrypy
+redis
+simplejson
+pandas
+jinja2
+datetime
+requests
